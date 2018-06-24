@@ -5,7 +5,7 @@
 1. Understand the use of `scope` and `namespace` in `routes.rb`.
 2. Create a module scoped controller.
 
-## Lesson
+## Lessong
 
 We're going to explore different ways of routing things in our blog application to help us organize and group certain routes and controllers more logically.
 
